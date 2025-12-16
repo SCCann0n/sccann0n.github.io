@@ -5,6 +5,5 @@ Electrical Engineering student focused on embedded systems, automation, and hard
 - Hardware/software co-design
 - Sensors, power systems, and debugging
 
-📄 Resume: [PDF link]
 🌐 Portfolio: https://sethcannon.github.io
-🔗 LinkedIn: [link]
+🔗 LinkedIn: www.linkedin.com/in/seth-cannon-a08b43329/
